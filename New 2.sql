@@ -22,4 +22,4 @@ GL_EMP_NO
 from pygledger_hist
 where gl_bch_num = 422177
 and gl_dept_code = '00'
-and gl_acc_code = '6410.001'
+and gl_acc_code = '6410.001222'
